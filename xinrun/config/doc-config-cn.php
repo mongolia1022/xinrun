@@ -1,9 +1,9 @@
 <?php
 //数据库配置字段
-define('DB_HOSTNAME','localhost');
-define('DB_USER','taose');
-define('DB_PASSWORD','tao808');
-define('DB_DBNAME','taose');
+define('DB_HOSTNAME','sql.s1099.vhostgo.com');
+define('DB_USER','chongwudeng');
+define('DB_PASSWORD','cwd808809');
+define('DB_DBNAME','chongwudeng');
 define('TB_PREFIX','doc_');
 //模板配置字段
 define('WEBOPEN',true);
