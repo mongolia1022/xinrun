@@ -1,0 +1,1 @@
+<li><span><?php echo date('[Y-m-d]',strtotime($data['dtTime'])); ?></span><a href="javascript:void(0)" onclick='return false' <?php echo $data['style']; ?>><?php echo $data['title']; ?></a></li>
